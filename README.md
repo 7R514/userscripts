@@ -10,7 +10,7 @@ Firefox上のViolentmonkeyで動作を確認しています。他の環境でも
 
 うっかりスクリーンショットに映ってしまい個人情報が流出、などと心配する必要はもうありません。
 
-https://7r514.github.io/userscripts/amazon-privacy-protector.user.js
+[表示/インストール](https://7r514.github.io/userscripts/amazon-privacy-protector.user.js)
 
 ## BusCatch Native Links
 
@@ -18,4 +18,4 @@ https://7r514.github.io/userscripts/amazon-privacy-protector.user.js
 
 専用のアプリ内で表示することを前提としているためか、「native://」から始まるリンクが多く、普通のブラウザでは開くことができません。これらを通常の「https://」スキームに変換します。
 
-https://7r514.github.io/userscripts/buscatch-native-links.user.js
+[表示/インストール](https://7r514.github.io/userscripts/buscatch-native-links.user.js)
